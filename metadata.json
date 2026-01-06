@@ -1,0 +1,5 @@
+{
+  "name": "Gonggan (공간)",
+  "description": "An AI-powered workspace agent where you can upload context files and collaborate with Gemini Nano Banana Pro to generate images, write articles, and manage projects.",
+  "requestFramePermissions": []
+}
